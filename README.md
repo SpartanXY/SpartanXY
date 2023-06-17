@@ -1,4 +1,4 @@
-<h2>Hey, I'm Abhishek Gupta !!! <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="40"></h2> 
+<h2>Hey, I'm Aviral Kumar !!! <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" width="40"></h2> 
 <br/>
 <div align = 'left'>
 <a href="https://github.com/cosmos-dx" target="_blank">
