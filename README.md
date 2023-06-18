@@ -57,7 +57,7 @@ Something Big Coming !!!
 
 <p>
   <a href="https://github.com/anmolpant/SaniText">
-    <img width="60%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpartanXY&show_icons=true&hide_border=true" />
+    <img width="60%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cosmos-dx&show_icons=true&hide_border=true" />
   </a>
   
   
