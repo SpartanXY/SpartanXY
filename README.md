@@ -119,10 +119,10 @@ Please do consider dropping a ‚≠ê for this repo and some of my recent Repos. ü•
 
 <p align="center">
   <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmos-dx&repo=ALone" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpartanXY&repo=ALone" />
   </a>
   <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmos-dx&repo=codetantra" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpartanXY&repo=codetantra" />
   </a>
 
 
