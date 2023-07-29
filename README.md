@@ -1,7 +1,7 @@
 <h2>Hey, I'm Aviral Kumar !!! <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" width="40"></h2> 
 <br/>
 <div align = 'left'>
-<a href="https://github.com/cosmos-dx" target="_blank">
+<a href="https://github.com/SpartanXY" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/abhi18_01" target="_blank">
