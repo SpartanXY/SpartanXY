@@ -90,16 +90,6 @@ Something Big Coming !!!
 </div>
 
 
-Please do consider dropping a ⭐ for this repo and some of my recent Repos. 🥺
-
-<p align="center">
-  <a href="https://github.com/SpartanXY/JS_Dict">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpartanXY&repo=ALone" />
-  </a>
-  <a href="https://github.com/SpartanXY/Img_Encryption">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpartanXY&repo=codetantra" />
-  </a>
-
 
 ---
 
