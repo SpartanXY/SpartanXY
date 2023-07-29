@@ -90,31 +90,6 @@ Something Big Coming !!!
 </div>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const abhishek = {
-    pronouns: "Bro" | "Bruh",
-    code: ["Javascript", "HTML", "Python", "Java", "C++"],
-    askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
-    technologies: {
-        frontEnd: {
-            js: ["Native", "jQuery"],
-            css: ["CSS3",  "Bootstrap"]
-        },
-        backEnd: {
-            python: ["flask"]
-            javascript : ["NodeJS"]
-        },
-        devOps: ["DigitalOcean"]
-        databases: ["MongoDB", "MySql", "sqlite", "phpMyAdmin"],
-        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas", "Octave"]
-    },
-    currentProject: "Working on techmed my current project for helping end users who faces issues while seeking medicines near them.",
-
-};
-```
-
 Please do consider dropping a ⭐ for this repo and some of my recent Repos. 🥺
 
 <p align="center">
