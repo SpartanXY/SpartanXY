@@ -4,16 +4,16 @@
 <a href="https://github.com/SpartanXY" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/abhi18_01" target="_blank">
+<a href="https://twitter.com/Aviral0407" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-gupta-a1a44a203/" target="_blank">
+<a href="https://www.linkedin.com/in/aviralkumaru4/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/abhishek.gupta0118" target="_blank">
+<a href="https://instagram.com/spartan.xy" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCstm-GlSpgVxFv8QetpS-iQ" target="_blank">
+<a href="https://www.youtube.com/channel/UCNhuBtqGzy5J942gwXtQLxw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
  <br /> <br />
