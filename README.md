@@ -85,7 +85,7 @@ Something Big Coming !!!
 
 <div align="center">
 
-![VisitorCount](https://komarev.com/ghpvc/?username=SpartanXY&label=RYUKENDO+US)
+![VisitorCount](https://komarev.com/ghpvc/?username=SpartanXY&label=Profile+Views)
 
 </div>
 
